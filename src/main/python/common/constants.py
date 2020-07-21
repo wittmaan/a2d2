@@ -1,0 +1,9 @@
+BIN = 2
+OVERLAP = 0.1
+SPLIT = 0.8
+
+JIT = 3
+NORM_H = 224
+NORM_W = 224
+
+BATCH_SIZE = 8
