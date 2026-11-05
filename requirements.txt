@@ -40,7 +40,7 @@ matplotlib==3.2.2
 mistune==0.8.4
 nbconvert==6.5.1
 nbformat==5.0.7
-nltk==3.5
+nltk==3.10.4
 notebook==6.0.3
 oauthlib==4.0.0
 open3d==0.10.0.0
