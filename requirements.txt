@@ -42,7 +42,7 @@ nbconvert==6.5.1
 nbformat==5.0.7
 nltk==3.5
 notebook==6.0.3
-oauthlib==3.0.1
+oauthlib==4.0.0
 open3d==0.10.0.0
 opencv-python==4.3.0.36
 opt-einsum==0+untagged.56.g2664021.dirty
