@@ -44,7 +44,7 @@ nltk==3.10.4
 notebook==6.4.12
 oauthlib==4.0.0
 open3d==0.10.0.0
-opencv-python==4.3.0.36
+opencv-python==4.8.1.78
 opt-einsum==0+untagged.56.g2664021.dirty
 packaging==20.4
 pandas==1.0.5
