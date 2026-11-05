@@ -38,7 +38,7 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
 mistune==3.3.3
-nbconvert==6.5.1
+nbconvert==7.17.2
 nbformat==5.0.7
 nltk==3.10.4
 notebook==6.4.12
